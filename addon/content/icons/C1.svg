@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 120 115" fill="context-fill" fill-opacity="context-fill-opacity">
+  <!-- Hexagonal C shape -->
+  <path d="
+    M58 5 L25 5 
+    C20 5, 16 8, 14 13 
+    L2 45 
+    C-1 52, -1 60, 2 67 
+    L14 99 
+    C16 104, 20 107, 25 107 
+    L58 107 
+    L58 88 
+    L30 88 
+    C27 88, 25 86, 23 82 
+    L13 58 
+    C11 54, 11 50, 13 46 
+    L23 22 
+    C25 18, 27 16, 30 16 
+    L58 16 
+    Z"/>
+  <!-- Circle - outer filled, with "1" cutout -->
+  <path fill-rule="evenodd" d="
+    M85 5 
+    C73.95 5, 65 13.95, 65 25 
+    C65 36.05, 73.95 45, 85 45 
+    C96.05 45, 105 36.05, 105 25 
+    C105 13.95, 96.05 5, 85 5 
+    Z
+    M82 15 L87 15 L87 30 L82 30 Z
+    M79 30 L91 30 L91 35 L79 35 Z
+  "/>
+</svg>
