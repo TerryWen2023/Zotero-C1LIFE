@@ -3,7 +3,7 @@ import { getLocaleID, getString } from "../utils/locale";
 export class WebLLMSidebar {
   static registerReaderSidebar() {
     // rootURI is injected into global scope by bootstrap.js
-    const iconPath = rootURI + "content/icons/C1.svg";
+    const iconPath = rootURI + "content/icons/logo.svg";
 
     Zotero.ItemPaneManager.registerSection({
       paneID: "zotero-c1life",
